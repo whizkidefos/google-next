@@ -21,4 +21,4 @@ function SearchResults({ results }) {
     )
 }
 
-export default SearchResults
+export default SearchResults;

@@ -28,4 +28,4 @@ function PaginationButton() {
     )
 }
 
-export default PaginationButton
+export default PaginationButton;
